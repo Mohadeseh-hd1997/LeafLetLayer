@@ -13,9 +13,31 @@
     <link rel="apple-touch-icon" sizes="54x57" href="./logo192.png" />
     <link rel="apple-touch-icon" sizes="192x192" href="./logo192.png" />
     <link rel="apple-touch-icon" sizes="512x512" href="./logo512.png" />
-     <!-- 引入leafletapi -->
-  <link rel="stylesheet" href="http://gisarmory.xyz/blog/lib/leaflet/leaflet.css" />
-  <script src="http://gisarmory.xyz/blog/lib/leaflet/leaflet.js"></script>
+    <!-- 引入leafletapi -->
+    <!--  Mobile Viewport Fix -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <!-- Google WebFonts -->
+    <link
+      href="http://fonts.googleapis.com/css?family=Dancing+Script:700"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css"
+    />
     <link
       rel="stylesheet"
       href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css"
@@ -28,6 +50,7 @@
       name="description"
       content="Web site created using create-react-app"
     />
+    <script src="../src/AnimatedMarker.js"></script>
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>Leaflet Map</title>
@@ -86,6 +109,10 @@
           });
       }
     </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+    <script src="../src/AnimatedMarker.js"></script>
     <div id="root"></div>
     <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
   </body>

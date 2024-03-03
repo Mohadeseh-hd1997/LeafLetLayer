@@ -1,166 +1,69 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import L from "leaflet";
 import "leaflet-draw/dist/leaflet.draw.css";
 import "leaflet-draw";
-import { Alert } from "antd";
-import logo from "../assets/logo.svg";
-import 'leaflet.animatedmarker';
+import "leaflet.animatedmarker/src/AnimatedMarker";
+import car from "../assets/car.png";
+import locationList from "../Mock/LocationList";
+import { Button } from "antd";
+import axios from "axios";
+// main function
 
-var locationList = [
-  {
-    lat: 37.7195265626227,
-    lng: 46.93359375000001,
-    title: "تبریز",
-    Address: "تبریز خیابان اول پلاک 1",
-    placeType: "h",
-  },
-  {
-    lat: 35.60496409485937,
-    lng: 51.50390625000001,
-    title: "تهران",
-    Address: "تهران خیابان اول پلاک 1",
-    placeType: "h",
-  },
-  {
-    lat: 32.54851512118243,
-    lng: 51.767578125,
-    title: "اصفهان",
-    Address: "اصفهان خیابان اول پلاک 1",
-    placeType: "h",
-  },
-  {
-    lat: 35.783389740701296,
-    lng: 58.88671875000001,
-    title: "مشهد",
-    Address: "مشهد خیابان اول پلاک 1",
-    placeType: "h",
-  },
-  {
-    lat: 34.562259303839774,
-    lng: 50.93261718750001,
-    title: "قم",
-    Address: "قم خیابان اول پلاک 1",
-    placeType: "h",
-  },
-
-  {
-    lat: 29.231097541675027,
-    lng: 52.99804687500001,
-    title: "شیراز",
-    Address: "شیراز خیابان اول پلاک 1",
-    placeType: "r",
-  },
-  {
-    lat: 27.061667813752774,
-    lng: 55.98632812500001,
-    title: "بندرلنگه",
-    Address: "بندرلنگه خیابان اول پلاک 1",
-    placeType: "r",
-  },
-  {
-    lat: 29.11600059007595,
-    lng: 60.51269531250001,
-    title: "زاهدان",
-    Address: "زاهدان خیابان اول پلاک 1",
-    placeType: "r",
-  },
-  {
-    lat: 31.767357597242206,
-    lng: 48.91113281250001,
-    title: "اهواز",
-    Address: "اهواز خیابان اول پلاک 1",
-    placeType: "r",
-  },
-  {
-    lat: 31.767357597242206,
-    lng: 54.31640625000001,
-    title: "یزد",
-    Address: "یزد خیابان اول پلاک 1",
-    placeType: "r",
-  },
-];
 const DrawMap = () => {
+  const [map, setMap] = useState();
+  const [ply, setPly] = useState();
+  const [real, setReail] = useState();
+  const [data, setData] = useState([]);
   useEffect(() => {
-    // Initialize map only once
-    const map = L.map("map").setView([35.60496409485937, 51.50390625000001], 6);
+
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/TravelReport.json');
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const datas = await response.json();
+        setData(datas.data);
  
+        var located=datas.data;
+        located.forEach((loc)=>{
+          data.push([loc.lat,loc.lng])
+        })
+        console.log(data)
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+  
+    fetchData();
+    // 1 map controller
+    // Initialize map only once
+    const map = L.map("map").setView([32.287, 52.954], 6);
+    setMap(map);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18,
     }).addTo(map);
     //var polygon = L.polyline(  locationList.map((location) => [location.lat, location.lng]), { color: "red" }).addTo(map);
-    var speedList = [1, 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 3, 2, 2, 1, 1, 1]
-    // 轨迹线
+    setPly(
+      L.polyline(data, {
+        weight: 8,
+      }).addTo(map)
+    );
 
-  
+    setReail(
+      L.polyline([], {
+        weight: 8,
+        color: "#FF9900",
+      }).addTo(map)
+    );
 
-    var routeLine = L.polyline(locationList, {
-      weight: 8
-    }).addTo(map);
-    // 实时轨迹线
-    var realRouteLine = L.polyline([], {
-      weight: 8,
-      color: '#FF9900'
-    }).addTo(map);
-  
-    var carIcon = L.icon({
-      iconSize: [37, 26],
-      iconAnchor: [19, 13],
-      iconUrl: './car.png'
-    })
-    // 动态marker
-    var animatedMarker = L.animatedMarker(routeLine.getLatLngs(), {
-      speedList: speedList,
-      interval: 200, // 默认为100mm
-      icon: carIcon,
-      playCall: updateRealLine
-    }).addTo(map)
-    var newLatlngs = [routeLine.getLatLngs()[0]]
-  
-    // 绘制已行走轨迹线（橙色那条）
-    function updateRealLine(latlng) {
-      newLatlngs.push(latlng)
-      realRouteLine.setLatLngs(newLatlngs)
-    }
-  
-    let speetX = 1 // 默认速度倍数
-    // 加速
-    function speetUp() {
-      speetX = speetX * 2
-      animatedMarker.setSpeetX(speetX);
-    }
-  
-    // 减速
-    function speetDown() {
-      speetX = speetX / 2
-      animatedMarker.setSpeetX(speetX);
-    }
-  
-    // 开始
-    function startClick() {
-      animatedMarker.start();
-    }
-  
-    // 暂停
-    function pauseClick() {
-      animatedMarker.pause();
-    }
-  
-    // 停止
-    function stopClick() {
-      newLatlngs = []
-      animatedMarker.stop();
-    }
     const editableLayers = new L.FeatureGroup();
     map.addLayer(editableLayers);
 
-    locationList.forEach((location) => {
+    data.forEach((location) => {
       L.marker([location.lat, location.lng])
         .addTo(editableLayers)
-        .bindPopup(`<b>${location.title}</b><br>${location.Address}`);
-    });
-
-    L.Marker.prototype.options.icon = L.icon({
-      iconUrl: logo,
+     
     });
     var icons = L.Icon.extend({
       options: {
@@ -171,30 +74,19 @@ const DrawMap = () => {
 
     var IconSetting = L.Icon.extend({
       options: {
-        iconSize: [40, 40],
+        iconSize: [150, 150],
         iconAnchor: [20, 35],
       },
     });
-    var GeneralIcon = new IconSetting({ iconUrl: logo });
-
-    for (let i = 0; i < locationList.length; i++) {
-      
-      L.marker([locationList[i].lat, locationList[i].lng], {
-        icon: GeneralIcon,
+    for (let i = 0; i < data.length; i++) {
+      L.marker([data[i].lat, data[i].lng], {
+        //  icon: GeneralIcon,
         placeIndex: i,
       })
-        .on("click", showDetails)
+        
         .addTo(editableLayers);
     }
-    function showDetails(e) {
-      var placeIndex = e.target.options.placeIndex;
-      alert(
-        "آدرس : " +
-          locationList[placeIndex].title +
-          " :" +
-          locationList[placeIndex].Address
-      );
-    }
+   
     const drawPluginOptions = {
       position: "topright",
       draw: {
@@ -222,21 +114,94 @@ const DrawMap = () => {
       editableLayers.addLayer(layer);
     });
 
-    // Clean up function to remove the map when the component unmounts
     return () => {
-      map.remove();
+      if (map) {
+        map.remove();
+      }
     };
-  }, []); // Run the effect only once when the component mounts
+  }, []);
 
-  return <div id="map" style={{ height: "800px" }}>
-    <div class="menuBar">
-    <input type="button" value="شروع مسیر" onclick="startClick()" />
-    <input type="button" value="توقف" onclick="pauseClick()" />
-    <input type="button" value="افزایش سرعت" onclick="speetUp()" />
-    <input type="button" value="کاهش سرعت" onclick="speetDown()" />
-    <input type="button" value="توقف" onclick="stopClick()" />
-  </div>
-  </div>;
+  // set config animated marker after load map in last useeffect
+  const [animMarket, setAnimMarket] = useState();
+  const [newLatlngs, setNewLatlngs] = useState();
+
+  useEffect(() => {
+    if (ply && map) {
+      setAnimMarket(
+        L.animatedMarker(ply.getLatLngs(), {
+          speedList: 5,
+          interval: 2500,
+          icon: carIcon,
+          playCall: updateRealLine,
+        }).addTo(map)
+      );
+      setNewLatlngs([ply.getLatLngs()[0]]);
+    }
+  }, [ply, map]);
+  // 2 Animation controller
+
+  var carIcon = L.icon({
+    iconSize: [42, 40],
+    iconAnchor: [19, 13],
+    iconUrl: car,
+  });
+
+  // realLine Path
+  function updateRealLine(latlng) {
+    newLatlngs.push(latlng);
+    real?.setLatLngs(newLatlngs);
+  }
+
+  let speetX = 1; // 默认速度倍数
+  // Speed Increase
+  const speetUp = () => {
+    speetX = speetX * 2;
+    animMarket.setSpeetX(speetX);
+  };
+
+  // Speed Decrease
+  const speetDown = () => {
+    speetX = speetX / 2;
+    animMarket.setSpeetX(speetX);
+  };
+
+  // start
+  const startClick = () => {
+    animMarket.start();
+  };
+
+  // pause
+  const pauseClick = () => {
+    animMarket.pause();
+  };
+
+  // 停止
+  const stopClick = () => {
+    newLatlngs = [];
+    animMarket.stop();
+  };
+  return (
+    <div>
+      {/* controller animation marker */}
+      <div
+        class="menuBar"
+        style={{
+          marginBottom: 4,
+          display: "flex",
+          flexDirection: "row",
+          justifyContent: "flex-start",
+        }}
+      >
+        <Button onClick={() => startClick()}>"شروع"</Button>
+        <Button onClick={() => pauseClick()}>"توقف"</Button>
+        <Button onClick={() => speetUp()}> "افزایش سرعت" </Button>
+        <Button onClick={() => speetDown()}>"کاهش سرعت" </Button>
+        <Button onClick={() => stopClick()}>"توقف" </Button>
+      </div>
+      {/* Show */}
+      <div id="map" style={{ height: "800px" }}></div>
+    </div>
+  );
 };
 
 export default DrawMap;

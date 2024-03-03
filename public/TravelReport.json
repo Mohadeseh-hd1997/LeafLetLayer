@@ -1,0 +1,5111 @@
+{
+    "data" :[
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327675,
+            "lng": 59.535503,
+            "timeStamp": "2024-03-03T07:03:22",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327748,
+            "lng": 59.535468,
+            "timeStamp": "2024-03-03T07:03:27",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327772,
+            "lng": 59.535478,
+            "timeStamp": "2024-03-03T07:03:32",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327765,
+            "lng": 59.535483,
+            "timeStamp": "2024-03-03T07:03:37",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327767,
+            "lng": 59.535488,
+            "timeStamp": "2024-03-03T07:03:42",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327758,
+            "lng": 59.535483,
+            "timeStamp": "2024-03-03T07:03:47",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327753,
+            "lng": 59.535482,
+            "timeStamp": "2024-03-03T07:03:52",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327753,
+            "lng": 59.535482,
+            "timeStamp": "2024-03-03T07:03:57",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327753,
+            "lng": 59.535482,
+            "timeStamp": "2024-03-03T07:04:02",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.327753,
+            "lng": 59.535482,
+            "timeStamp": "2024-03-03T07:04:07",
+            "isOn": true
+        },
+        {
+            "speed": 4,
+            "anten": null,
+            "lat": 36.327738,
+            "lng": 59.535435,
+            "timeStamp": "2024-03-03T07:04:12",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.327760,
+            "lng": 59.535172,
+            "timeStamp": "2024-03-03T07:04:17",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.327672,
+            "lng": 59.534915,
+            "timeStamp": "2024-03-03T07:04:22",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.327317,
+            "lng": 59.534793,
+            "timeStamp": "2024-03-03T07:04:27",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.326965,
+            "lng": 59.534708,
+            "timeStamp": "2024-03-03T07:04:32",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326880,
+            "lng": 59.534678,
+            "timeStamp": "2024-03-03T07:04:37",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:04:42",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:04:47",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:04:52",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:04:57",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:02",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:07",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:12",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:17",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:22",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:27",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:32",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:37",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.326893,
+            "lng": 59.534675,
+            "timeStamp": "2024-03-03T07:05:42",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.326675,
+            "lng": 59.534618,
+            "timeStamp": "2024-03-03T07:05:47",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.326292,
+            "lng": 59.534522,
+            "timeStamp": "2024-03-03T07:05:52",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.325793,
+            "lng": 59.534408,
+            "timeStamp": "2024-03-03T07:05:57",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.325325,
+            "lng": 59.534287,
+            "timeStamp": "2024-03-03T07:06:02",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.324863,
+            "lng": 59.534158,
+            "timeStamp": "2024-03-03T07:06:07",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.324863,
+            "lng": 59.534158,
+            "timeStamp": "2024-03-03T07:06:07",
+            "isOn": true
+        },
+        {
+            "speed": 26,
+            "anten": null,
+            "lat": 36.324298,
+            "lng": 59.534000,
+            "timeStamp": "2024-03-03T07:06:12",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.323690,
+            "lng": 59.533805,
+            "timeStamp": "2024-03-03T07:06:17",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.323690,
+            "lng": 59.533805,
+            "timeStamp": "2024-03-03T07:06:17",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.323690,
+            "lng": 59.533805,
+            "timeStamp": "2024-03-03T07:06:17",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.323037,
+            "lng": 59.533623,
+            "timeStamp": "2024-03-03T07:06:22",
+            "isOn": true
+        },
+        {
+            "speed": 24,
+            "anten": null,
+            "lat": 36.322447,
+            "lng": 59.533467,
+            "timeStamp": "2024-03-03T07:06:27",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.321947,
+            "lng": 59.533325,
+            "timeStamp": "2024-03-03T07:06:32",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.321612,
+            "lng": 59.533230,
+            "timeStamp": "2024-03-03T07:06:37",
+            "isOn": true
+        },
+        {
+            "speed": 24,
+            "anten": null,
+            "lat": 36.321118,
+            "lng": 59.533103,
+            "timeStamp": "2024-03-03T07:06:42",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.320580,
+            "lng": 59.532942,
+            "timeStamp": "2024-03-03T07:06:47",
+            "isOn": true
+        },
+        {
+            "speed": 26,
+            "anten": null,
+            "lat": 36.319993,
+            "lng": 59.532780,
+            "timeStamp": "2024-03-03T07:06:52",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.319360,
+            "lng": 59.532593,
+            "timeStamp": "2024-03-03T07:06:57",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.318853,
+            "lng": 59.532437,
+            "timeStamp": "2024-03-03T07:07:02",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.318560,
+            "lng": 59.532310,
+            "timeStamp": "2024-03-03T07:07:07",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.318323,
+            "lng": 59.531988,
+            "timeStamp": "2024-03-03T07:07:12",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.318407,
+            "lng": 59.531353,
+            "timeStamp": "2024-03-03T07:07:17",
+            "isOn": true
+        },
+        {
+            "speed": 32,
+            "anten": null,
+            "lat": 36.318660,
+            "lng": 59.530568,
+            "timeStamp": "2024-03-03T07:07:22",
+            "isOn": true
+        },
+        {
+            "speed": 33,
+            "anten": null,
+            "lat": 36.318953,
+            "lng": 59.529640,
+            "timeStamp": "2024-03-03T07:07:27",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.319213,
+            "lng": 59.528767,
+            "timeStamp": "2024-03-03T07:07:32",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.319470,
+            "lng": 59.527942,
+            "timeStamp": "2024-03-03T07:07:37",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.319698,
+            "lng": 59.527173,
+            "timeStamp": "2024-03-03T07:07:42",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.319958,
+            "lng": 59.526273,
+            "timeStamp": "2024-03-03T07:07:47",
+            "isOn": true
+        },
+        {
+            "speed": 34,
+            "anten": null,
+            "lat": 36.320223,
+            "lng": 59.525272,
+            "timeStamp": "2024-03-03T07:07:52",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.320487,
+            "lng": 59.524448,
+            "timeStamp": "2024-03-03T07:07:57",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.320720,
+            "lng": 59.523680,
+            "timeStamp": "2024-03-03T07:08:02",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.320980,
+            "lng": 59.522870,
+            "timeStamp": "2024-03-03T07:08:07",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.321238,
+            "lng": 59.522045,
+            "timeStamp": "2024-03-03T07:08:12",
+            "isOn": true
+        },
+        {
+            "speed": 30,
+            "anten": null,
+            "lat": 36.321502,
+            "lng": 59.521215,
+            "timeStamp": "2024-03-03T07:08:17",
+            "isOn": true
+        },
+        {
+            "speed": 32,
+            "anten": null,
+            "lat": 36.321765,
+            "lng": 59.520375,
+            "timeStamp": "2024-03-03T07:08:22",
+            "isOn": true
+        },
+        {
+            "speed": 30,
+            "anten": null,
+            "lat": 36.322025,
+            "lng": 59.519518,
+            "timeStamp": "2024-03-03T07:08:27",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.322270,
+            "lng": 59.518725,
+            "timeStamp": "2024-03-03T07:08:32",
+            "isOn": true
+        },
+        {
+            "speed": 32,
+            "anten": null,
+            "lat": 36.322532,
+            "lng": 59.517877,
+            "timeStamp": "2024-03-03T07:08:37",
+            "isOn": true
+        },
+        {
+            "speed": 34,
+            "anten": null,
+            "lat": 36.322808,
+            "lng": 59.516988,
+            "timeStamp": "2024-03-03T07:08:42",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.323100,
+            "lng": 59.516020,
+            "timeStamp": "2024-03-03T07:08:47",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.323393,
+            "lng": 59.515027,
+            "timeStamp": "2024-03-03T07:08:52",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.323700,
+            "lng": 59.514062,
+            "timeStamp": "2024-03-03T07:08:57",
+            "isOn": true
+        },
+        {
+            "speed": 33,
+            "anten": null,
+            "lat": 36.323987,
+            "lng": 59.513172,
+            "timeStamp": "2024-03-03T07:09:02",
+            "isOn": true
+        },
+        {
+            "speed": 33,
+            "anten": null,
+            "lat": 36.324270,
+            "lng": 59.512275,
+            "timeStamp": "2024-03-03T07:09:07",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.324545,
+            "lng": 59.511343,
+            "timeStamp": "2024-03-03T07:09:12",
+            "isOn": true
+        },
+        {
+            "speed": 38,
+            "anten": null,
+            "lat": 36.324845,
+            "lng": 59.510338,
+            "timeStamp": "2024-03-03T07:09:17",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.325142,
+            "lng": 59.509368,
+            "timeStamp": "2024-03-03T07:09:22",
+            "isOn": true
+        },
+        {
+            "speed": 36,
+            "anten": null,
+            "lat": 36.325460,
+            "lng": 59.508393,
+            "timeStamp": "2024-03-03T07:09:27",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.325738,
+            "lng": 59.507542,
+            "timeStamp": "2024-03-03T07:09:32",
+            "isOn": true
+        },
+        {
+            "speed": 33,
+            "anten": null,
+            "lat": 36.326035,
+            "lng": 59.506680,
+            "timeStamp": "2024-03-03T07:09:37",
+            "isOn": true
+        },
+        {
+            "speed": 35,
+            "anten": null,
+            "lat": 36.326332,
+            "lng": 59.505758,
+            "timeStamp": "2024-03-03T07:09:42",
+            "isOn": true
+        },
+        {
+            "speed": 35,
+            "anten": null,
+            "lat": 36.326633,
+            "lng": 59.504810,
+            "timeStamp": "2024-03-03T07:09:47",
+            "isOn": true
+        },
+        {
+            "speed": 34,
+            "anten": null,
+            "lat": 36.326928,
+            "lng": 59.503880,
+            "timeStamp": "2024-03-03T07:09:52",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.327220,
+            "lng": 59.502995,
+            "timeStamp": "2024-03-03T07:09:57",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.327450,
+            "lng": 59.502330,
+            "timeStamp": "2024-03-03T07:10:02",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.327678,
+            "lng": 59.501877,
+            "timeStamp": "2024-03-03T07:10:07",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.328063,
+            "lng": 59.501805,
+            "timeStamp": "2024-03-03T07:10:12",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.328488,
+            "lng": 59.501973,
+            "timeStamp": "2024-03-03T07:10:17",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.328972,
+            "lng": 59.502232,
+            "timeStamp": "2024-03-03T07:10:22",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.329445,
+            "lng": 59.502475,
+            "timeStamp": "2024-03-03T07:10:27",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.329832,
+            "lng": 59.502652,
+            "timeStamp": "2024-03-03T07:10:32",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.330142,
+            "lng": 59.502792,
+            "timeStamp": "2024-03-03T07:10:37",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.330313,
+            "lng": 59.502878,
+            "timeStamp": "2024-03-03T07:10:42",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.330480,
+            "lng": 59.502947,
+            "timeStamp": "2024-03-03T07:10:47",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.330653,
+            "lng": 59.503015,
+            "timeStamp": "2024-03-03T07:10:52",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.330850,
+            "lng": 59.503090,
+            "timeStamp": "2024-03-03T07:10:57",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.331028,
+            "lng": 59.503165,
+            "timeStamp": "2024-03-03T07:11:02",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.331172,
+            "lng": 59.503235,
+            "timeStamp": "2024-03-03T07:11:07",
+            "isOn": true
+        },
+        {
+            "speed": 2,
+            "anten": null,
+            "lat": 36.331268,
+            "lng": 59.503320,
+            "timeStamp": "2024-03-03T07:11:12",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.331295,
+            "lng": 59.503342,
+            "timeStamp": "2024-03-03T07:11:17",
+            "isOn": true
+        },
+        {
+            "speed": 3,
+            "anten": null,
+            "lat": 36.331327,
+            "lng": 59.503367,
+            "timeStamp": "2024-03-03T07:11:22",
+            "isOn": true
+        },
+        {
+            "speed": 2,
+            "anten": null,
+            "lat": 36.331427,
+            "lng": 59.503362,
+            "timeStamp": "2024-03-03T07:11:27",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.331398,
+            "lng": 59.503280,
+            "timeStamp": "2024-03-03T07:11:32",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.331093,
+            "lng": 59.503153,
+            "timeStamp": "2024-03-03T07:11:37",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.330743,
+            "lng": 59.502988,
+            "timeStamp": "2024-03-03T07:11:42",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.330375,
+            "lng": 59.502792,
+            "timeStamp": "2024-03-03T07:11:47",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.330045,
+            "lng": 59.502640,
+            "timeStamp": "2024-03-03T07:11:52",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.329665,
+            "lng": 59.502460,
+            "timeStamp": "2024-03-03T07:11:57",
+            "isOn": true
+        },
+        {
+            "speed": 25,
+            "anten": null,
+            "lat": 36.329132,
+            "lng": 59.502208,
+            "timeStamp": "2024-03-03T07:12:02",
+            "isOn": true
+        },
+        {
+            "speed": 26,
+            "anten": null,
+            "lat": 36.328573,
+            "lng": 59.501935,
+            "timeStamp": "2024-03-03T07:12:07",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.327972,
+            "lng": 59.501637,
+            "timeStamp": "2024-03-03T07:12:12",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.327352,
+            "lng": 59.501285,
+            "timeStamp": "2024-03-03T07:12:17",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.326728,
+            "lng": 59.500847,
+            "timeStamp": "2024-03-03T07:12:22",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.326122,
+            "lng": 59.500320,
+            "timeStamp": "2024-03-03T07:12:27",
+            "isOn": true
+        },
+        {
+            "speed": 25,
+            "anten": null,
+            "lat": 36.325575,
+            "lng": 59.499817,
+            "timeStamp": "2024-03-03T07:12:32",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.325237,
+            "lng": 59.499477,
+            "timeStamp": "2024-03-03T07:12:37",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.324900,
+            "lng": 59.499132,
+            "timeStamp": "2024-03-03T07:12:42",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.324585,
+            "lng": 59.498822,
+            "timeStamp": "2024-03-03T07:12:47",
+            "isOn": true
+        },
+        {
+            "speed": 3,
+            "anten": null,
+            "lat": 36.324458,
+            "lng": 59.498652,
+            "timeStamp": "2024-03-03T07:12:52",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.324573,
+            "lng": 59.498483,
+            "timeStamp": "2024-03-03T07:12:57",
+            "isOn": true
+        },
+        {
+            "speed": 14,
+            "anten": null,
+            "lat": 36.324817,
+            "lng": 59.498120,
+            "timeStamp": "2024-03-03T07:13:02",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.325033,
+            "lng": 59.497802,
+            "timeStamp": "2024-03-03T07:13:07",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.325285,
+            "lng": 59.497538,
+            "timeStamp": "2024-03-03T07:13:12",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.325225,
+            "lng": 59.497365,
+            "timeStamp": "2024-03-03T07:13:17",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.324920,
+            "lng": 59.497075,
+            "timeStamp": "2024-03-03T07:13:22",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.324630,
+            "lng": 59.496832,
+            "timeStamp": "2024-03-03T07:13:27",
+            "isOn": true
+        },
+        {
+            "speed": 4,
+            "anten": null,
+            "lat": 36.324453,
+            "lng": 59.496690,
+            "timeStamp": "2024-03-03T07:13:32",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.324408,
+            "lng": 59.496682,
+            "timeStamp": "2024-03-03T07:13:37",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.324405,
+            "lng": 59.496682,
+            "timeStamp": "2024-03-03T07:13:42",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.324405,
+            "lng": 59.496682,
+            "timeStamp": "2024-03-03T07:13:47",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.324405,
+            "lng": 59.496682,
+            "timeStamp": "2024-03-03T07:13:52",
+            "isOn": true
+        },
+        {
+            "speed": 2,
+            "anten": null,
+            "lat": 36.324432,
+            "lng": 59.496712,
+            "timeStamp": "2024-03-03T07:13:57",
+            "isOn": true
+        },
+        {
+            "speed": 3,
+            "anten": null,
+            "lat": 36.324550,
+            "lng": 59.496765,
+            "timeStamp": "2024-03-03T07:14:02",
+            "isOn": true
+        },
+        {
+            "speed": 2,
+            "anten": null,
+            "lat": 36.324608,
+            "lng": 59.496792,
+            "timeStamp": "2024-03-03T07:14:07",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.324708,
+            "lng": 59.496930,
+            "timeStamp": "2024-03-03T07:14:12",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.324945,
+            "lng": 59.497167,
+            "timeStamp": "2024-03-03T07:14:17",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.325172,
+            "lng": 59.497355,
+            "timeStamp": "2024-03-03T07:14:22",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.325207,
+            "lng": 59.497442,
+            "timeStamp": "2024-03-03T07:14:27",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.325015,
+            "lng": 59.497720,
+            "timeStamp": "2024-03-03T07:14:32",
+            "isOn": true
+        },
+        {
+            "speed": 14,
+            "anten": null,
+            "lat": 36.324837,
+            "lng": 59.498048,
+            "timeStamp": "2024-03-03T07:14:37",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.324663,
+            "lng": 59.498358,
+            "timeStamp": "2024-03-03T07:14:42",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.324528,
+            "lng": 59.498605,
+            "timeStamp": "2024-03-03T07:14:47",
+            "isOn": true
+        },
+        {
+            "speed": 3,
+            "anten": null,
+            "lat": 36.324453,
+            "lng": 59.498702,
+            "timeStamp": "2024-03-03T07:14:52",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.324315,
+            "lng": 59.498613,
+            "timeStamp": "2024-03-03T07:14:57",
+            "isOn": true
+        },
+        {
+            "speed": 4,
+            "anten": null,
+            "lat": 36.324175,
+            "lng": 59.498472,
+            "timeStamp": "2024-03-03T07:15:02",
+            "isOn": true
+        },
+        {
+            "speed": 4,
+            "anten": null,
+            "lat": 36.324102,
+            "lng": 59.498390,
+            "timeStamp": "2024-03-03T07:15:07",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.323972,
+            "lng": 59.498277,
+            "timeStamp": "2024-03-03T07:15:12",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.323773,
+            "lng": 59.498088,
+            "timeStamp": "2024-03-03T07:15:17",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.323617,
+            "lng": 59.498020,
+            "timeStamp": "2024-03-03T07:15:22",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.323722,
+            "lng": 59.498223,
+            "timeStamp": "2024-03-03T07:15:27",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.324127,
+            "lng": 59.498562,
+            "timeStamp": "2024-03-03T07:15:32",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.324608,
+            "lng": 59.498983,
+            "timeStamp": "2024-03-03T07:15:37",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.325118,
+            "lng": 59.499485,
+            "timeStamp": "2024-03-03T07:15:42",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.325633,
+            "lng": 59.499953,
+            "timeStamp": "2024-03-03T07:15:47",
+            "isOn": true
+        },
+        {
+            "speed": 31,
+            "anten": null,
+            "lat": 36.326203,
+            "lng": 59.500468,
+            "timeStamp": "2024-03-03T07:15:52",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.326753,
+            "lng": 59.500948,
+            "timeStamp": "2024-03-03T07:15:57",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.327337,
+            "lng": 59.501327,
+            "timeStamp": "2024-03-03T07:16:02",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.327337,
+            "lng": 59.501327,
+            "timeStamp": "2024-03-03T07:16:02",
+            "isOn": true
+        },
+        {
+            "speed": 30,
+            "anten": null,
+            "lat": 36.327942,
+            "lng": 59.501677,
+            "timeStamp": "2024-03-03T07:16:07",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.328570,
+            "lng": 59.501975,
+            "timeStamp": "2024-03-03T07:16:12",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.329202,
+            "lng": 59.502277,
+            "timeStamp": "2024-03-03T07:16:17",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.329693,
+            "lng": 59.502528,
+            "timeStamp": "2024-03-03T07:16:22",
+            "isOn": true
+        },
+        {
+            "speed": 18,
+            "anten": null,
+            "lat": 36.330122,
+            "lng": 59.502747,
+            "timeStamp": "2024-03-03T07:16:27",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.330438,
+            "lng": 59.502917,
+            "timeStamp": "2024-03-03T07:16:32",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.330637,
+            "lng": 59.503010,
+            "timeStamp": "2024-03-03T07:16:37",
+            "isOn": true
+        },
+        {
+            "speed": 4,
+            "anten": null,
+            "lat": 36.330768,
+            "lng": 59.503088,
+            "timeStamp": "2024-03-03T07:16:42",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.330923,
+            "lng": 59.503168,
+            "timeStamp": "2024-03-03T07:16:47",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.331195,
+            "lng": 59.503315,
+            "timeStamp": "2024-03-03T07:16:52",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.331413,
+            "lng": 59.503477,
+            "timeStamp": "2024-03-03T07:16:57",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.331713,
+            "lng": 59.503597,
+            "timeStamp": "2024-03-03T07:17:02",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.332205,
+            "lng": 59.503743,
+            "timeStamp": "2024-03-03T07:17:07",
+            "isOn": true
+        },
+        {
+            "speed": 26,
+            "anten": null,
+            "lat": 36.332737,
+            "lng": 59.504033,
+            "timeStamp": "2024-03-03T07:17:12",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.333227,
+            "lng": 59.504270,
+            "timeStamp": "2024-03-03T07:17:17",
+            "isOn": true
+        },
+        {
+            "speed": 26,
+            "anten": null,
+            "lat": 36.333748,
+            "lng": 59.504508,
+            "timeStamp": "2024-03-03T07:17:22",
+            "isOn": true
+        },
+        {
+            "speed": 25,
+            "anten": null,
+            "lat": 36.334307,
+            "lng": 59.504762,
+            "timeStamp": "2024-03-03T07:17:27",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.334798,
+            "lng": 59.505045,
+            "timeStamp": "2024-03-03T07:17:32",
+            "isOn": true
+        },
+        {
+            "speed": 4,
+            "anten": null,
+            "lat": 36.335047,
+            "lng": 59.505170,
+            "timeStamp": "2024-03-03T07:17:37",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335063,
+            "lng": 59.505150,
+            "timeStamp": "2024-03-03T07:17:42",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:17:47",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:17:52",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:17:57",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:02",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:07",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:12",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:17",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:22",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:27",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.505147,
+            "timeStamp": "2024-03-03T07:18:32",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.335188,
+            "lng": 59.505223,
+            "timeStamp": "2024-03-03T07:18:37",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.335602,
+            "lng": 59.505420,
+            "timeStamp": "2024-03-03T07:18:42",
+            "isOn": true
+        },
+        {
+            "speed": 24,
+            "anten": null,
+            "lat": 36.336085,
+            "lng": 59.505633,
+            "timeStamp": "2024-03-03T07:18:47",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.336585,
+            "lng": 59.505888,
+            "timeStamp": "2024-03-03T07:18:52",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.337025,
+            "lng": 59.506142,
+            "timeStamp": "2024-03-03T07:18:57",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.337473,
+            "lng": 59.506360,
+            "timeStamp": "2024-03-03T07:19:02",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.337920,
+            "lng": 59.506550,
+            "timeStamp": "2024-03-03T07:19:07",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.338335,
+            "lng": 59.506767,
+            "timeStamp": "2024-03-03T07:19:12",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.338590,
+            "lng": 59.507067,
+            "timeStamp": "2024-03-03T07:19:17",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.338463,
+            "lng": 59.507622,
+            "timeStamp": "2024-03-03T07:19:22",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.338307,
+            "lng": 59.508317,
+            "timeStamp": "2024-03-03T07:19:27",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.338195,
+            "lng": 59.508848,
+            "timeStamp": "2024-03-03T07:19:32",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.338063,
+            "lng": 59.509615,
+            "timeStamp": "2024-03-03T07:19:37",
+            "isOn": true
+        },
+        {
+            "speed": 30,
+            "anten": null,
+            "lat": 36.337907,
+            "lng": 59.510437,
+            "timeStamp": "2024-03-03T07:19:42",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.337750,
+            "lng": 59.511272,
+            "timeStamp": "2024-03-03T07:19:47",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.337598,
+            "lng": 59.512087,
+            "timeStamp": "2024-03-03T07:19:52",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.337475,
+            "lng": 59.512742,
+            "timeStamp": "2024-03-03T07:19:57",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.337367,
+            "lng": 59.512907,
+            "timeStamp": "2024-03-03T07:20:02",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.337342,
+            "lng": 59.513217,
+            "timeStamp": "2024-03-03T07:20:07",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.337318,
+            "lng": 59.513770,
+            "timeStamp": "2024-03-03T07:20:12",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.337178,
+            "lng": 59.514373,
+            "timeStamp": "2024-03-03T07:20:17",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.337073,
+            "lng": 59.514937,
+            "timeStamp": "2024-03-03T07:20:22",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.336968,
+            "lng": 59.515518,
+            "timeStamp": "2024-03-03T07:20:27",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.336850,
+            "lng": 59.516162,
+            "timeStamp": "2024-03-03T07:20:32",
+            "isOn": true
+        },
+        {
+            "speed": 25,
+            "anten": null,
+            "lat": 36.336735,
+            "lng": 59.516787,
+            "timeStamp": "2024-03-03T07:20:37",
+            "isOn": true
+        },
+        {
+            "speed": 29,
+            "anten": null,
+            "lat": 36.336590,
+            "lng": 59.517553,
+            "timeStamp": "2024-03-03T07:20:42",
+            "isOn": true
+        },
+        {
+            "speed": 28,
+            "anten": null,
+            "lat": 36.336447,
+            "lng": 59.518360,
+            "timeStamp": "2024-03-03T07:20:47",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.336310,
+            "lng": 59.519090,
+            "timeStamp": "2024-03-03T07:20:52",
+            "isOn": true
+        },
+        {
+            "speed": 24,
+            "anten": null,
+            "lat": 36.336238,
+            "lng": 59.519750,
+            "timeStamp": "2024-03-03T07:20:57",
+            "isOn": true
+        },
+        {
+            "speed": 24,
+            "anten": null,
+            "lat": 36.336105,
+            "lng": 59.520455,
+            "timeStamp": "2024-03-03T07:21:02",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.335985,
+            "lng": 59.521033,
+            "timeStamp": "2024-03-03T07:21:07",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.335892,
+            "lng": 59.521253,
+            "timeStamp": "2024-03-03T07:21:12",
+            "isOn": true
+        },
+        {
+            "speed": 3,
+            "anten": null,
+            "lat": 36.335865,
+            "lng": 59.521308,
+            "timeStamp": "2024-03-03T07:21:17",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.335748,
+            "lng": 59.521522,
+            "timeStamp": "2024-03-03T07:21:22",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.335838,
+            "lng": 59.521898,
+            "timeStamp": "2024-03-03T07:21:27",
+            "isOn": true
+        },
+        {
+            "speed": 24,
+            "anten": null,
+            "lat": 36.335758,
+            "lng": 59.522490,
+            "timeStamp": "2024-03-03T07:21:32",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.335625,
+            "lng": 59.523168,
+            "timeStamp": "2024-03-03T07:21:37",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.335533,
+            "lng": 59.523742,
+            "timeStamp": "2024-03-03T07:21:42",
+            "isOn": true
+        },
+        {
+            "speed": 27,
+            "anten": null,
+            "lat": 36.335415,
+            "lng": 59.524432,
+            "timeStamp": "2024-03-03T07:21:47",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.335323,
+            "lng": 59.525063,
+            "timeStamp": "2024-03-03T07:21:52",
+            "isOn": true
+        },
+        {
+            "speed": 25,
+            "anten": null,
+            "lat": 36.335230,
+            "lng": 59.525743,
+            "timeStamp": "2024-03-03T07:21:57",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.335120,
+            "lng": 59.526410,
+            "timeStamp": "2024-03-03T07:22:02",
+            "isOn": true
+        },
+        {
+            "speed": 18,
+            "anten": null,
+            "lat": 36.335070,
+            "lng": 59.526878,
+            "timeStamp": "2024-03-03T07:22:07",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.334927,
+            "lng": 59.527502,
+            "timeStamp": "2024-03-03T07:22:12",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.334815,
+            "lng": 59.528117,
+            "timeStamp": "2024-03-03T07:22:17",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.334713,
+            "lng": 59.528700,
+            "timeStamp": "2024-03-03T07:22:22",
+            "isOn": true
+        },
+        {
+            "speed": 20,
+            "anten": null,
+            "lat": 36.334598,
+            "lng": 59.529317,
+            "timeStamp": "2024-03-03T07:22:27",
+            "isOn": true
+        },
+        {
+            "speed": 14,
+            "anten": null,
+            "lat": 36.334507,
+            "lng": 59.529810,
+            "timeStamp": "2024-03-03T07:22:32",
+            "isOn": true
+        },
+        {
+            "speed": 5,
+            "anten": null,
+            "lat": 36.334418,
+            "lng": 59.530003,
+            "timeStamp": "2024-03-03T07:22:37",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.334283,
+            "lng": 59.530073,
+            "timeStamp": "2024-03-03T07:22:42",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.333992,
+            "lng": 59.530015,
+            "timeStamp": "2024-03-03T07:22:47",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.333638,
+            "lng": 59.529925,
+            "timeStamp": "2024-03-03T07:22:52",
+            "isOn": true
+        },
+        {
+            "speed": 14,
+            "anten": null,
+            "lat": 36.333285,
+            "lng": 59.529818,
+            "timeStamp": "2024-03-03T07:22:57",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.333002,
+            "lng": 59.529750,
+            "timeStamp": "2024-03-03T07:23:02",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.332948,
+            "lng": 59.529738,
+            "timeStamp": "2024-03-03T07:23:07",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.332952,
+            "lng": 59.529738,
+            "timeStamp": "2024-03-03T07:23:12",
+            "isOn": true
+        },
+        {
+            "speed": 13,
+            "anten": null,
+            "lat": 36.333080,
+            "lng": 59.529853,
+            "timeStamp": "2024-03-03T07:23:17",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.333537,
+            "lng": 59.529958,
+            "timeStamp": "2024-03-03T07:23:22",
+            "isOn": true
+        },
+        {
+            "speed": 22,
+            "anten": null,
+            "lat": 36.334072,
+            "lng": 59.530118,
+            "timeStamp": "2024-03-03T07:23:27",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.334355,
+            "lng": 59.530290,
+            "timeStamp": "2024-03-03T07:23:32",
+            "isOn": true
+        },
+        {
+            "speed": 18,
+            "anten": null,
+            "lat": 36.334288,
+            "lng": 59.530673,
+            "timeStamp": "2024-03-03T07:23:37",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.334182,
+            "lng": 59.531207,
+            "timeStamp": "2024-03-03T07:23:42",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.334113,
+            "lng": 59.531637,
+            "timeStamp": "2024-03-03T07:23:47",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.334047,
+            "lng": 59.532042,
+            "timeStamp": "2024-03-03T07:23:52",
+            "isOn": true
+        },
+        {
+            "speed": 18,
+            "anten": null,
+            "lat": 36.333922,
+            "lng": 59.532567,
+            "timeStamp": "2024-03-03T07:23:57",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.333853,
+            "lng": 59.532960,
+            "timeStamp": "2024-03-03T07:24:02",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.333822,
+            "lng": 59.533177,
+            "timeStamp": "2024-03-03T07:24:07",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.333817,
+            "lng": 59.533403,
+            "timeStamp": "2024-03-03T07:24:12",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.333888,
+            "lng": 59.533562,
+            "timeStamp": "2024-03-03T07:24:17",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.334072,
+            "lng": 59.533622,
+            "timeStamp": "2024-03-03T07:24:22",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.334222,
+            "lng": 59.533657,
+            "timeStamp": "2024-03-03T07:24:27",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.334557,
+            "lng": 59.533802,
+            "timeStamp": "2024-03-03T07:24:32",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.334905,
+            "lng": 59.533935,
+            "timeStamp": "2024-03-03T07:24:37",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.334945,
+            "lng": 59.534253,
+            "timeStamp": "2024-03-03T07:24:42",
+            "isOn": true
+        },
+        {
+            "speed": 26,
+            "anten": null,
+            "lat": 36.334798,
+            "lng": 59.534887,
+            "timeStamp": "2024-03-03T07:24:47",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.334648,
+            "lng": 59.535618,
+            "timeStamp": "2024-03-03T07:24:52",
+            "isOn": true
+        },
+        {
+            "speed": 18,
+            "anten": null,
+            "lat": 36.334553,
+            "lng": 59.536208,
+            "timeStamp": "2024-03-03T07:24:57",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.334542,
+            "lng": 59.536597,
+            "timeStamp": "2024-03-03T07:25:02",
+            "isOn": true
+        },
+        {
+            "speed": 3,
+            "anten": null,
+            "lat": 36.334508,
+            "lng": 59.536747,
+            "timeStamp": "2024-03-03T07:25:07",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.334300,
+            "lng": 59.536722,
+            "timeStamp": "2024-03-03T07:25:12",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.334005,
+            "lng": 59.536670,
+            "timeStamp": "2024-03-03T07:25:17",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.333792,
+            "lng": 59.536647,
+            "timeStamp": "2024-03-03T07:25:22",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.333685,
+            "lng": 59.536657,
+            "timeStamp": "2024-03-03T07:25:27",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.333672,
+            "lng": 59.536692,
+            "timeStamp": "2024-03-03T07:25:32",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.333722,
+            "lng": 59.536733,
+            "timeStamp": "2024-03-03T07:25:37",
+            "isOn": true
+        },
+        {
+            "speed": 5,
+            "anten": null,
+            "lat": 36.333860,
+            "lng": 59.536830,
+            "timeStamp": "2024-03-03T07:25:42",
+            "isOn": true
+        },
+        {
+            "speed": 15,
+            "anten": null,
+            "lat": 36.333792,
+            "lng": 59.537130,
+            "timeStamp": "2024-03-03T07:25:47",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.333662,
+            "lng": 59.537625,
+            "timeStamp": "2024-03-03T07:25:52",
+            "isOn": true
+        },
+        {
+            "speed": 18,
+            "anten": null,
+            "lat": 36.333547,
+            "lng": 59.538143,
+            "timeStamp": "2024-03-03T07:25:57",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.333462,
+            "lng": 59.538598,
+            "timeStamp": "2024-03-03T07:26:02",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.333430,
+            "lng": 59.538912,
+            "timeStamp": "2024-03-03T07:26:07",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.333300,
+            "lng": 59.539410,
+            "timeStamp": "2024-03-03T07:26:12",
+            "isOn": true
+        },
+        {
+            "speed": 23,
+            "anten": null,
+            "lat": 36.333208,
+            "lng": 59.540075,
+            "timeStamp": "2024-03-03T07:26:17",
+            "isOn": true
+        },
+        {
+            "speed": 21,
+            "anten": null,
+            "lat": 36.333102,
+            "lng": 59.540708,
+            "timeStamp": "2024-03-03T07:26:22",
+            "isOn": true
+        },
+        {
+            "speed": 19,
+            "anten": null,
+            "lat": 36.332982,
+            "lng": 59.541317,
+            "timeStamp": "2024-03-03T07:26:27",
+            "isOn": true
+        },
+        {
+            "speed": 9,
+            "anten": null,
+            "lat": 36.332942,
+            "lng": 59.541728,
+            "timeStamp": "2024-03-03T07:26:32",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.332782,
+            "lng": 59.541802,
+            "timeStamp": "2024-03-03T07:26:37",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.332508,
+            "lng": 59.541763,
+            "timeStamp": "2024-03-03T07:26:42",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.332265,
+            "lng": 59.541718,
+            "timeStamp": "2024-03-03T07:26:47",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.331967,
+            "lng": 59.541605,
+            "timeStamp": "2024-03-03T07:26:52",
+            "isOn": true
+        },
+        {
+            "speed": 14,
+            "anten": null,
+            "lat": 36.331730,
+            "lng": 59.541513,
+            "timeStamp": "2024-03-03T07:26:57",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.331372,
+            "lng": 59.541420,
+            "timeStamp": "2024-03-03T07:27:02",
+            "isOn": true
+        },
+        {
+            "speed": 12,
+            "anten": null,
+            "lat": 36.331163,
+            "lng": 59.541363,
+            "timeStamp": "2024-03-03T07:27:07",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.330822,
+            "lng": 59.541295,
+            "timeStamp": "2024-03-03T07:27:12",
+            "isOn": true
+        },
+        {
+            "speed": 11,
+            "anten": null,
+            "lat": 36.330635,
+            "lng": 59.541370,
+            "timeStamp": "2024-03-03T07:27:17",
+            "isOn": true
+        },
+        {
+            "speed": 8,
+            "anten": null,
+            "lat": 36.330390,
+            "lng": 59.541288,
+            "timeStamp": "2024-03-03T07:27:22",
+            "isOn": true
+        },
+        {
+            "speed": 7,
+            "anten": null,
+            "lat": 36.330185,
+            "lng": 59.541237,
+            "timeStamp": "2024-03-03T07:27:27",
+            "isOn": true
+        },
+        {
+            "speed": 10,
+            "anten": null,
+            "lat": 36.330072,
+            "lng": 59.541205,
+            "timeStamp": "2024-03-03T07:27:32",
+            "isOn": true
+        },
+        {
+            "speed": 17,
+            "anten": null,
+            "lat": 36.329900,
+            "lng": 59.541657,
+            "timeStamp": "2024-03-03T07:27:37",
+            "isOn": true
+        },
+        {
+            "speed": 16,
+            "anten": null,
+            "lat": 36.329733,
+            "lng": 59.542143,
+            "timeStamp": "2024-03-03T07:27:42",
+            "isOn": true
+        },
+        {
+            "speed": 14,
+            "anten": null,
+            "lat": 36.329588,
+            "lng": 59.542625,
+            "timeStamp": "2024-03-03T07:27:47",
+            "isOn": true
+        },
+        {
+            "speed": 6,
+            "anten": null,
+            "lat": 36.329542,
+            "lng": 59.542925,
+            "timeStamp": "2024-03-03T07:27:52",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329468,
+            "lng": 59.543038,
+            "timeStamp": "2024-03-03T07:27:57",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329453,
+            "lng": 59.543063,
+            "timeStamp": "2024-03-03T07:28:02",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329442,
+            "lng": 59.543090,
+            "timeStamp": "2024-03-03T07:28:07",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329488,
+            "lng": 59.543147,
+            "timeStamp": "2024-03-03T07:28:12",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329490,
+            "lng": 59.543153,
+            "timeStamp": "2024-03-03T07:28:17",
+            "isOn": true
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329532,
+            "lng": 59.543198,
+            "timeStamp": "2024-03-03T07:28:22",
+            "isOn": false
+        },
+        {
+            "speed": 1,
+            "anten": null,
+            "lat": 36.329838,
+            "lng": 59.543250,
+            "timeStamp": "2024-03-03T07:29:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329818,
+            "lng": 59.543268,
+            "timeStamp": "2024-03-03T07:30:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329818,
+            "lng": 59.543268,
+            "timeStamp": "2024-03-03T07:31:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329818,
+            "lng": 59.543268,
+            "timeStamp": "2024-03-03T07:32:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:33:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:34:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:35:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:36:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:37:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:38:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:39:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:40:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:41:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:42:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329753,
+            "lng": 59.543292,
+            "timeStamp": "2024-03-03T07:43:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:44:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:45:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:46:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:47:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:48:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:49:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:50:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329643,
+            "lng": 59.543267,
+            "timeStamp": "2024-03-03T07:51:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329433,
+            "lng": 59.543235,
+            "timeStamp": "2024-03-03T07:52:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329433,
+            "lng": 59.543235,
+            "timeStamp": "2024-03-03T07:53:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329555,
+            "lng": 59.543260,
+            "timeStamp": "2024-03-03T07:54:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329555,
+            "lng": 59.543260,
+            "timeStamp": "2024-03-03T07:55:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329555,
+            "lng": 59.543260,
+            "timeStamp": "2024-03-03T07:56:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329608,
+            "lng": 59.543263,
+            "timeStamp": "2024-03-03T07:57:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T07:58:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T07:59:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:00:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:01:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:02:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:03:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:04:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:05:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:06:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:07:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:08:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:09:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:10:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:11:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:12:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:13:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:14:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:15:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:16:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:17:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:18:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:19:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:20:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:21:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:22:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:23:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:24:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:25:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:26:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:27:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:28:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:29:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:30:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:31:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:32:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:33:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:34:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:35:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:36:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:37:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:38:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:39:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:40:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:41:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:42:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:43:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:44:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:45:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:46:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:47:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:48:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:49:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:50:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:51:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:52:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:53:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:54:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:55:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:56:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:57:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:58:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T08:59:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:00:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:01:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:02:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:03:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:04:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:05:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:06:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:07:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:08:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:09:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:10:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:11:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:12:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:13:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:14:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:15:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:16:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:17:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:18:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:19:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:20:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:21:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:22:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:23:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:24:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:25:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:26:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:27:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:28:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:29:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:30:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:31:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:32:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:33:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:34:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:35:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:36:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:37:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:38:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:39:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:40:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:41:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:42:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:43:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:44:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:45:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:46:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:47:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:48:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:49:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:50:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:51:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:52:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:53:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:54:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:55:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:56:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:57:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:58:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T09:59:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:00:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:01:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:02:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:03:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:04:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:05:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:06:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:07:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:08:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:09:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:10:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:11:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:12:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:13:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:14:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:15:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:16:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:17:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:18:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:19:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:20:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:21:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:22:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:23:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:24:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:25:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:26:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:27:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:28:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:29:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:30:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:31:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:32:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:33:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:34:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:35:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:36:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:37:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:38:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:39:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:40:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:41:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:42:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:43:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:44:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:45:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:46:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:47:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:48:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:49:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:50:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:51:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:52:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329540,
+            "lng": 59.543245,
+            "timeStamp": "2024-03-03T10:53:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.330072,
+            "lng": 59.542822,
+            "timeStamp": "2024-03-03T10:54:22",
+            "isOn": false
+        },
+        {
+            "speed": 1,
+            "anten": null,
+            "lat": 36.329707,
+            "lng": 59.543070,
+            "timeStamp": "2024-03-03T10:55:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T10:56:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T10:57:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T10:58:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T10:59:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:00:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:01:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:02:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:03:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:04:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:05:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:06:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:07:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:08:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:09:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:10:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:11:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:12:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:13:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:14:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:15:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:16:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:17:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:18:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:19:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:20:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:21:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:22:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:23:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:24:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:25:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:26:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:27:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:28:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:29:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:30:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:31:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:32:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:33:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:34:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:35:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:36:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:37:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:38:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:39:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:40:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:41:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:42:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:43:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:44:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:45:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:46:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:47:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329622,
+            "lng": 59.543163,
+            "timeStamp": "2024-03-03T11:48:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329773,
+            "lng": 59.543295,
+            "timeStamp": "2024-03-03T11:49:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:50:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:51:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:52:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:53:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:54:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:55:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:56:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:57:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:58:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T11:59:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:00:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:01:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:02:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:03:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:04:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:05:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:06:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:07:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:08:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:09:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:10:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:11:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:12:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:13:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:14:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:15:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:16:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:17:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:18:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:19:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:20:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:21:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:22:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:23:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:24:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:25:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:26:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:27:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:28:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:29:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:30:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:31:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:32:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:33:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:34:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:35:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:36:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:37:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:38:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:39:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:40:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:41:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:42:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:43:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:44:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:45:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:46:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:47:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:48:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:49:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:50:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:51:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:52:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:53:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:54:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:55:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:56:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:57:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:58:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T12:59:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T13:00:22",
+            "isOn": false
+        },
+        {
+            "speed": 0,
+            "anten": null,
+            "lat": 36.329770,
+            "lng": 59.543297,
+            "timeStamp": "2024-03-03T13:01:22",
+            "isOn": false
+        }
+    ],
+    "isSuccess": true,
+    "statusCode": 0,
+    "message": "عملیات با موفقیت انجام شد"
+}
