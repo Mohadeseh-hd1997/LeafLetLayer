@@ -3,122 +3,115 @@ import L from "leaflet";
 import "leaflet-draw/dist/leaflet.draw.css";
 import "leaflet-draw";
 import "leaflet.animatedmarker/src/AnimatedMarker";
-import car from "../assets/car.png";
-import locationList from "../Mock/LocationList";
+import car from "../assets/marker-icon-2x.png";
+import End from "../assets/end.png";
+import Start from "../assets/start.png";
+import park from "../assets/Parking.png";
 import { Button } from "antd";
-import axios from "axios";
-// main function
 
+// main function
 const DrawMap = () => {
   const [map, setMap] = useState();
   const [ply, setPly] = useState();
   const [real, setReail] = useState();
   const [data, setData] = useState([]);
-  useEffect(() => {
+  var startPoint = new Array();
+  var EndPoint = new Array();
+  var PointList = new Array();
+  var ParkList = new Array();
+  const StartIcon = L.icon({
+    iconUrl: Start,
+    iconSize: [32, 32], // adjust the size according to your icon dimensions
+  });
 
+  const EndIcon = L.icon({
+    iconUrl: End,
+    iconSize: [32, 32], // adjust the size according to your icon dimensions
+  });
+
+  const ParkingIcon = L.icon({
+    iconUrl: park,
+    iconSize: [32, 32], // adjust the size according to your icon dimensions
+  });
+
+  useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/TravelReport.json');
+        const response = await fetch("/TravelReport.json");
         if (!response.ok) {
-          throw new Error('Network response was not ok');
+          throw new Error("Network response was not ok");
         }
         const datas = await response.json();
-        setData(datas.data);
- 
-        var located=datas.data;
-        located.forEach((loc)=>{
-          data.push([loc.lat,loc.lng])
-        })
-        console.log(data)
+        var located = datas.data;
+        startPoint.push(located[0].lat, located[0].lng);
+        EndPoint.push(
+          located[located.length - 1].lat,
+          located[located.length - 1].lng
+        );
+
+        const ParkP = located.map((ln) => {
+          if (ln.speed === 0) {
+            ParkList.push([ln.lat, ln.lng]);
+            return [ln.lat, ln.lng];
+          }
+            return [ln.lat, ln.lng];
+          
+        });
+        PointList.push(ParkP);
+
+        // Initialize map after data is fetched
+        const map = L.map("map").setView(PointList[0][0], 13);
+        setMap(map);
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 18,
+        }).addTo(map);
+
+        // Create polylines using PointList[0]
+        setPly(
+          L.polyline(PointList[0], {
+            weight: 5,
+          }).addTo(map)
+        );
+
+        setReail(
+          L.polyline([], {
+            weight: 8,
+            color: "#FF9900",
+          }).addTo(map)
+        );
+
+        const editableLayers = new L.FeatureGroup();
+        map.addLayer(editableLayers);
+
+        // Create markers for each coordinate pair in PointList[0]
+
+        // Assuming startPoint and EndPoint are arrays containing coordinates
+        L.marker([startPoint[0], startPoint[1]], {
+          icon: StartIcon,
+          placeIndex: [startPoint[0], startPoint[1]],
+        }).addTo(editableLayers);
+
+        L.marker([EndPoint[0], EndPoint[1]], {
+          icon: EndIcon,
+          placeIndex: [EndPoint[0], EndPoint[1]],
+        }).addTo(editableLayers);
+
+        // Pause location Icon
+        ParkList.map((locs) => {
+          console.log(locs);
+          L.marker(locs, {
+            icon: ParkingIcon,
+            placeIndex: locs,
+          }).addTo(editableLayers);
+        });
+
+        ///
       } catch (error) {
-        console.error('Error fetching data:', error);
+        console.error("Error fetching data:", error);
       }
     };
-  
+
     fetchData();
-    // 1 map controller
-    // Initialize map only once
-    const map = L.map("map").setView([32.287, 52.954], 6);
-    setMap(map);
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 18,
-    }).addTo(map);
-    //var polygon = L.polyline(  locationList.map((location) => [location.lat, location.lng]), { color: "red" }).addTo(map);
-    setPly(
-      L.polyline(data, {
-        weight: 8,
-      }).addTo(map)
-    );
-
-    setReail(
-      L.polyline([], {
-        weight: 8,
-        color: "#FF9900",
-      }).addTo(map)
-    );
-
-    const editableLayers = new L.FeatureGroup();
-    map.addLayer(editableLayers);
-
-    data.forEach((location) => {
-      L.marker([location.lat, location.lng])
-        .addTo(editableLayers)
-     
-    });
-    var icons = L.Icon.extend({
-      options: {
-        iconSize: [40, 40],
-        iconAnchor: [20, 35],
-      },
-    });
-
-    var IconSetting = L.Icon.extend({
-      options: {
-        iconSize: [150, 150],
-        iconAnchor: [20, 35],
-      },
-    });
-    for (let i = 0; i < data.length; i++) {
-      L.marker([data[i].lat, data[i].lng], {
-        //  icon: GeneralIcon,
-        placeIndex: i,
-      })
-        
-        .addTo(editableLayers);
-    }
-   
-    const drawPluginOptions = {
-      position: "topright",
-      draw: {
-        draw: {
-          color: "pink",
-        },
-      },
-      edit: {
-        featureGroup: editableLayers,
-        remove: false,
-      },
-    };
-
-    const drawControl = new L.Control.Draw(drawPluginOptions);
-    map.addControl(drawControl);
-
-    map.on("draw:created", function (e) {
-      const type = e.layerType,
-        layer = e.layer;
-
-      if (type === "marker") {
-        layer.bindPopup("its your popup");
-      }
-
-      editableLayers.addLayer(layer);
-    });
-
-    return () => {
-      if (map) {
-        map.remove();
-      }
-    };
   }, []);
 
   // set config animated marker after load map in last useeffect
@@ -129,8 +122,8 @@ const DrawMap = () => {
     if (ply && map) {
       setAnimMarket(
         L.animatedMarker(ply.getLatLngs(), {
-          speedList: 5,
-          interval: 2500,
+          speedList: 10,
+          interval: 100,
           icon: carIcon,
           playCall: updateRealLine,
         }).addTo(map)
@@ -138,11 +131,9 @@ const DrawMap = () => {
       setNewLatlngs([ply.getLatLngs()[0]]);
     }
   }, [ply, map]);
-  // 2 Animation controller
-
+  // 2 Animation control
   var carIcon = L.icon({
-    iconSize: [42, 40],
-    iconAnchor: [19, 13],
+    iconSize: [20, 20],
     iconUrl: car,
   });
 
@@ -152,7 +143,7 @@ const DrawMap = () => {
     real?.setLatLngs(newLatlngs);
   }
 
-  let speetX = 1; // 默认速度倍数
+  let speetX = 5;
   // Speed Increase
   const speetUp = () => {
     speetX = speetX * 2;
@@ -175,7 +166,7 @@ const DrawMap = () => {
     animMarket.pause();
   };
 
-  // 停止
+  // stop
   const stopClick = () => {
     newLatlngs = [];
     animMarket.stop();
@@ -184,7 +175,7 @@ const DrawMap = () => {
     <div>
       {/* controller animation marker */}
       <div
-        class="menuBar"
+        className="menuBar"
         style={{
           marginBottom: 4,
           display: "flex",
